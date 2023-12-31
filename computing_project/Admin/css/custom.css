@@ -1,0 +1,60 @@
+.text-colour
+{
+    color:#ffffff;
+}
+
+#text-colour
+{
+    color:#ffffff;
+}
+
+#icon-colour
+{
+    color:#fdf21c;
+}
+
+.logo
+{
+        width: 100%;
+        height: auto;
+}
+
+
+
+#categorybtn:hover
+{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#categorybtn
+{
+    border: none;
+    color:white ;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.category, .supplier, .product
+{
+    margin-left:22%;
+    width:50%;
+}
+
+.ctgrybtn, #ctgry
+{
+    padding-left:5%;
+}
+
+.heading_padding
+{
+    margin-left:37%;
+}
+
+.center-align
+{
+    margin-left: 23%;
+    font-size: 1rem;
+}
